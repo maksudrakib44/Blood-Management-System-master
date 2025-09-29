@@ -5,6 +5,13 @@ This project was developed as part of the University’s IDP II course.
 
 ---
 
+## Contributors
+
+| Name | Role / Contribution |
+|------|--------------------|
+| **Md. Maksudul Haque** | Lead Developer / Setup & Documentation |
+| [**Pranto Bapary**](https://github.com/Pranto-Bapary) | Feature Development, UI, Testing |
+
 ## Motivation
 Managing blood donations, tracking donors, and handling hospital requests is crucial in times of need.  
 This system makes it easier to:
@@ -82,14 +89,3 @@ If you'd like to contribute:
 4. Submit a Pull Request with a clear description
 
 Please ensure code is clean, documented, and tested.
-
----
-
-## Contributors
-
-| Name | Role / Contribution |
-|------|--------------------|
-| **Md. Maksudul Haque** | Lead Developer / Setup & Documentation |
-| [**Pranto Bapary**](https://github.com/Pranto-Bapary) | Feature Development, UI, Testing |
-
----

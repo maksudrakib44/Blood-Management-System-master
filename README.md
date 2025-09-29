@@ -87,10 +87,9 @@ Please ensure code is clean, documented, and tested.
 
 ## Contributors
 
-| Name                                                  | Role / Contribution                    |
-| ----------------------------------------------------- | -------------------------------------- |
-| **Md. Maksudul Haque**                                | Lead Developer / Setup & Documentation |
-| [**Pranto Bapary**](https://github.com/Pranto-Bapary) | Feature Development, UI, Testing       |
+- **Md. Maksudul Haque** — Lead Developer / Setup & Documentation  
+- [**Pranto Bapary**](https://github.com/Pranto-Bapary) — Feature Development, UI, Testing  
+
 
 ---
 

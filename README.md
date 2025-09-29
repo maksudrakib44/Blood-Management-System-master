@@ -83,7 +83,7 @@ If you'd like to contribute:
 
 Please ensure code is clean, documented, and tested.
 
-
+---
 
 ## Contributors
 
@@ -91,3 +91,5 @@ Please ensure code is clean, documented, and tested.
 |------|--------------------|
 | **Md. Maksudul Haque** | Lead Developer / Setup & Documentation |
 | [**Pranto Bapary**](https://github.com/Pranto-Bapary) | Feature Development, UI, Testing |
+
+---
